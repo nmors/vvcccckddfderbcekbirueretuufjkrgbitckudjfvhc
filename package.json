@@ -1,0 +1,27 @@
+{
+  "name": "vvcccckddfderbcekbirueretuufjkrgbitckudjfvhc",
+  "version": "1.0.0-cccccckddfdevnfjldgvkdetcneklnrkbtrtbncudrhh",
+  "description": "cccccckddfdevcekkkfdjvrljndcvdecbccuvlkjdini cccccckddfdevnednfiubdlfdchceuckcvjhrkudngnv cccccckddfdeluvtunrgdhjeejindngckvtkjdrkkbgj cccccckddfdedthvfnkgvnhecugkduluregjkcutfcdr",
+  "main": "src/main.js",
+  "scripts": {
+    "cccccckddfdebecfuiffrkrrfkihrrkfivclfudvtkkg": "webpack",
+    "build": "npm run cccccckddfdebecfuiffrkrrfkihrrkfivclfudvtkkg"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nmors/vvcccckddfderbcekbirueretuufjkrgbitckudjfvhc"
+  },
+  "author": "Nathan Pickworth",
+  "license": "cccccckddfdengtevlhtfjkcrltevjnivrtbtkcblugs",
+  "dependencies": {},
+  "devDependencies": {
+    "css-loader": "^3.2.1",
+    "style-loader": "^1.0.1",
+    "html-webpack-plugin": "^3.2.0",
+    "raw-loader": "^4.0.0",
+    "ts-loader": "^6.2.1",
+    "typescript": "^3.7.2",
+    "webpack": "^4.41.2",
+    "webpack-cli": "^3.3.10"
+  }
+}
